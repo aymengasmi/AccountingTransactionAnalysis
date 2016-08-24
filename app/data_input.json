@@ -1,0 +1,769 @@
+[{
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 1,
+	"amount": -50.0,
+	"bookingDate": "2015-07-15 02:00:03",
+	"partnerAccountIBAN": "None",
+	"bookingType": "ATM"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 2,
+	"amount": -1000.0,
+	"bookingDate": "2015-07-29 02:00:03",
+	"partnerAccountIBAN": "DE513",
+	"bookingType": "Rent"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 3,
+	"amount": 3566.0,
+	"bookingDate": "2015-07-29 02:00:03",
+	"partnerAccountIBAN": "DE512",
+	"bookingType": "Salary"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 4,
+	"amount": -160.0,
+	"bookingDate": "2015-07-29 02:00:03",
+	"partnerAccountIBAN": "DE38900",
+	"bookingType": "Installment"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 5,
+	"amount": 450.0,
+	"bookingDate": "2015-07-29 02:00:03",
+	"partnerAccountIBAN": "DE40042",
+	"bookingType": "Unknown"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 6,
+	"amount": 190.0,
+	"bookingDate": "2015-07-29 02:00:03",
+	"partnerAccountIBAN": "DE400423333",
+	"bookingType": "Childbenefit"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 7,
+	"amount": -50.0,
+	"bookingDate": "2015-07-29 02:00:03",
+	"partnerAccountIBAN": "None",
+	"bookingType": "ATM"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 8,
+	"amount": -50.0,
+	"bookingDate": "2015-08-15 02:00:04",
+	"partnerAccountIBAN": "None",
+	"bookingType": "ATM"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 9,
+	"amount": -1000.0,
+	"bookingDate": "2015-08-29 02:00:04",
+	"partnerAccountIBAN": "DE513",
+	"bookingType": "Rent"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 10,
+	"amount": 5677.0,
+	"bookingDate": "2015-08-29 02:00:04",
+	"partnerAccountIBAN": "DE512",
+	"bookingType": "Salary"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 11,
+	"amount": -160.0,
+	"bookingDate": "2015-08-29 02:00:04",
+	"partnerAccountIBAN": "DE38900",
+	"bookingType": "Installment"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 12,
+	"amount": 450.0,
+	"bookingDate": "2015-08-29 02:00:04",
+	"partnerAccountIBAN": "DE40042",
+	"bookingType": "Unknown"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 13,
+	"amount": -160.0,
+	"bookingDate": "2015-08-29 02:00:04",
+	"partnerAccountIBAN": "DE50701240538",
+	"bookingType": "GasStation"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 14,
+	"amount": 190.0,
+	"bookingDate": "2015-08-29 02:00:04",
+	"partnerAccountIBAN": "DE400423333",
+	"bookingType": "Childbenefit"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 15,
+	"amount": -50.0,
+	"bookingDate": "2015-08-29 02:00:04",
+	"partnerAccountIBAN": "None",
+	"bookingType": "ATM"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 16,
+	"amount": -50.0,
+	"bookingDate": "2015-09-10 02:00:05",
+	"partnerAccountIBAN": "None",
+	"bookingType": "ATM"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 17,
+	"amount": -1000.0,
+	"bookingDate": "2015-09-29 02:00:05",
+	"partnerAccountIBAN": "DE513",
+	"bookingType": "Rent"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 18,
+	"amount": 4555.0,
+	"bookingDate": "2015-09-29 02:00:05",
+	"partnerAccountIBAN": "DE512",
+	"bookingType": "Salary"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 19,
+	"amount": -160.0,
+	"bookingDate": "2015-09-29 02:00:05",
+	"partnerAccountIBAN": "DE38900",
+	"bookingType": "Installment"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 20,
+	"amount": 450.0,
+	"bookingDate": "2015-09-29 02:00:05",
+	"partnerAccountIBAN": "DE40042",
+	"bookingType": "Unknown"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 21,
+	"amount": -190.0,
+	"bookingDate": "2015-09-29 02:00:05",
+	"partnerAccountIBAN": "DE50701240538",
+	"bookingType": "GasStation"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 22,
+	"amount": 190.0,
+	"bookingDate": "2015-09-29 02:00:05",
+	"partnerAccountIBAN": "DE400423333",
+	"bookingType": "Childbenefit"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 23,
+	"amount": -50.0,
+	"bookingDate": "2015-09-29 02:00:05",
+	"partnerAccountIBAN": "None",
+	"bookingType": "ATM"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 24,
+	"amount": -150.0,
+	"bookingDate": "2015-10-04 02:00:00",
+	"partnerAccountIBAN": "None",
+	"bookingType": "ATM"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 25,
+	"amount": -1000.0,
+	"bookingDate": "2015-10-29 02:00:00",
+	"partnerAccountIBAN": "DE513",
+	"bookingType": "Rent"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 26,
+	"amount": 4100.0,
+	"bookingDate": "2015-10-29 02:00:00",
+	"partnerAccountIBAN": "DE512",
+	"bookingType": "Salary"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 27,
+	"amount": -160.0,
+	"bookingDate": "2015-10-29 02:00:00",
+	"partnerAccountIBAN": "DE38900",
+	"bookingType": "Installment"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 28,
+	"amount": 450.0,
+	"bookingDate": "2015-10-29 02:00:00",
+	"partnerAccountIBAN": "DE40042",
+	"bookingType": "Unknown"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 29,
+	"amount": -177.0,
+	"bookingDate": "2015-10-29 02:00:00",
+	"partnerAccountIBAN": "DE50701240538",
+	"bookingType": "GasStation"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 30,
+	"amount": 190.0,
+	"bookingDate": "2015-10-29 02:00:00",
+	"partnerAccountIBAN": "DE400423333",
+	"bookingType": "Childbenefit"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 31,
+	"amount": -50.0,
+	"bookingDate": "2015-10-29 02:00:00",
+	"partnerAccountIBAN": "None",
+	"bookingType": "ATM"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 32,
+	"amount": 20000.0,
+	"bookingDate": "2015-10-29 02:00:03",
+	"partnerAccountIBAN": "DE900",
+	"bookingType": "Unknown"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 33,
+	"amount": -50.0,
+	"bookingDate": "2015-11-07 02:00:01",
+	"partnerAccountIBAN": "None",
+	"bookingType": "ATM"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 34,
+	"amount": -1000.0,
+	"bookingDate": "2015-11-29 02:00:01",
+	"partnerAccountIBAN": "DE513",
+	"bookingType": "Rent"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 35,
+	"amount": 4500.0,
+	"bookingDate": "2015-11-29 02:00:01",
+	"partnerAccountIBAN": "DE512",
+	"bookingType": "Salary"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 36,
+	"amount": -160.0,
+	"bookingDate": "2015-11-29 02:00:01",
+	"partnerAccountIBAN": "DE38900",
+	"bookingType": "Installment"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 37,
+	"amount": 450.0,
+	"bookingDate": "2015-11-29 02:00:01",
+	"partnerAccountIBAN": "DE40042",
+	"bookingType": "Unknown"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 38,
+	"amount": -199.0,
+	"bookingDate": "2015-11-29 02:00:01",
+	"partnerAccountIBAN": "DE50701240538",
+	"bookingType": "GasStation"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 39,
+	"amount": 190.0,
+	"bookingDate": "2015-11-29 02:00:01",
+	"partnerAccountIBAN": "DE400423333",
+	"bookingType": "Childbenefit"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 40,
+	"amount": -50.0,
+	"bookingDate": "2015-11-29 02:00:01",
+	"partnerAccountIBAN": "None",
+	"bookingType": "ATM"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 41,
+	"amount": -50.0,
+	"bookingDate": "2015-12-20 02:00:02",
+	"partnerAccountIBAN": "None",
+	"bookingType": "ATM"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 42,
+	"amount": -1000.0,
+	"bookingDate": "2015-12-29 02:00:02",
+	"partnerAccountIBAN": "DE513",
+	"bookingType": "Rent"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 43,
+	"amount": 4500.0,
+	"bookingDate": "2015-12-29 02:00:02",
+	"partnerAccountIBAN": "DE512",
+	"bookingType": "Salary"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 44,
+	"amount": -80.0,
+	"bookingDate": "2015-12-29 02:00:02",
+	"partnerAccountIBAN": "DE38900",
+	"bookingType": "Installment"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 45,
+	"amount": 450.0,
+	"bookingDate": "2015-12-29 02:00:02",
+	"partnerAccountIBAN": "DE40042",
+	"bookingType": "Unknown"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 46,
+	"amount": -500.0,
+	"bookingDate": "2015-12-29 02:00:02",
+	"partnerAccountIBAN": "DE50701240538",
+	"bookingType": "GasStation"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 47,
+	"amount": 190.0,
+	"bookingDate": "2015-12-29 02:00:02",
+	"partnerAccountIBAN": "DE400423333",
+	"bookingType": "Childbenefit"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 48,
+	"amount": -500.0,
+	"bookingDate": "2015-12-29 02:00:02",
+	"partnerAccountIBAN": "None",
+	"bookingType": "ATM"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 49,
+	"amount": -150.0,
+	"bookingDate": "2016-01-11 02:00:03",
+	"partnerAccountIBAN": "None",
+	"bookingType": "ATM"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 50,
+	"amount": -1300.0,
+	"bookingDate": "2016-01-29 02:00:03",
+	"partnerAccountIBAN": "DE511",
+	"bookingType": "Rent"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 51,
+	"amount": 4510.0,
+	"bookingDate": "2016-01-29 02:00:03",
+	"partnerAccountIBAN": "DE512",
+	"bookingType": "Salary"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 52,
+	"amount": -240.0,
+	"bookingDate": "2016-01-29 02:00:03",
+	"partnerAccountIBAN": "DE38900",
+	"bookingType": "Installment"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 53,
+	"amount": 450.0,
+	"bookingDate": "2016-01-29 02:00:03",
+	"partnerAccountIBAN": "DE40042",
+	"bookingType": "Unknown"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 54,
+	"amount": -160.0,
+	"bookingDate": "2016-01-29 02:00:03",
+	"partnerAccountIBAN": "DE511007",
+	"bookingType": "CarInsurance"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 55,
+	"amount": -155.0,
+	"bookingDate": "2016-01-29 02:00:03",
+	"partnerAccountIBAN": "DE50701240538",
+	"bookingType": "GasStation"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 56,
+	"amount": 190.0,
+	"bookingDate": "2016-01-29 02:00:03",
+	"partnerAccountIBAN": "DE400423333",
+	"bookingType": "Childbenefit"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 57,
+	"amount": -50.0,
+	"bookingDate": "2016-01-29 02:00:03",
+	"partnerAccountIBAN": "None",
+	"bookingType": "ATM"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 58,
+	"amount": -50.0,
+	"bookingDate": "2016-02-11 02:00:00",
+	"partnerAccountIBAN": "None",
+	"bookingType": "ATM"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 59,
+	"amount": -1300.0,
+	"bookingDate": "2016-02-29 02:00:00",
+	"partnerAccountIBAN": "DE511",
+	"bookingType": "Rent"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 60,
+	"amount": 5500.0,
+	"bookingDate": "2016-02-29 02:00:00",
+	"partnerAccountIBAN": "DE512",
+	"bookingType": "Salary"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 61,
+	"amount": -160.0,
+	"bookingDate": "2016-02-29 02:00:00",
+	"partnerAccountIBAN": "DE38900",
+	"bookingType": "Installment"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 62,
+	"amount": 450.0,
+	"bookingDate": "2016-02-29 02:00:00",
+	"partnerAccountIBAN": "DE40042",
+	"bookingType": "Unknown"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 63,
+	"amount": -111.0,
+	"bookingDate": "2016-02-29 02:00:00",
+	"partnerAccountIBAN": "DE50701240538",
+	"bookingType": "GasStation"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 64,
+	"amount": 190.0,
+	"bookingDate": "2016-02-29 02:00:00",
+	"partnerAccountIBAN": "DE400423333",
+	"bookingType": "Childbenefit"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 65,
+	"amount": -50.0,
+	"bookingDate": "2016-02-29 02:00:00",
+	"partnerAccountIBAN": "None",
+	"bookingType": "ATM"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 66,
+	"amount": -50.0,
+	"bookingDate": "2016-03-09 02:00:00",
+	"partnerAccountIBAN": "None",
+	"bookingType": "ATM"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 67,
+	"amount": -1300.0,
+	"bookingDate": "2016-03-29 02:00:00",
+	"partnerAccountIBAN": "DE511",
+	"bookingType": "Rent"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 68,
+	"amount": 2000.0,
+	"bookingDate": "2016-03-29 02:00:00",
+	"partnerAccountIBAN": "DE512",
+	"bookingType": "Salary"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 69,
+	"amount": -160.0,
+	"bookingDate": "2016-03-29 02:00:00",
+	"partnerAccountIBAN": "DE38900",
+	"bookingType": "Installment"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 70,
+	"amount": 450.0,
+	"bookingDate": "2016-03-29 02:00:00",
+	"partnerAccountIBAN": "DE40042",
+	"bookingType": "Unknown"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 71,
+	"amount": -60.0,
+	"bookingDate": "2016-03-29 02:00:00",
+	"partnerAccountIBAN": "DE50701240538",
+	"bookingType": "GasStation"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 72,
+	"amount": 190.0,
+	"bookingDate": "2016-03-29 02:00:00",
+	"partnerAccountIBAN": "DE400423333",
+	"bookingType": "Childbenefit"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 73,
+	"amount": -50.0,
+	"bookingDate": "2016-03-29 02:00:00",
+	"partnerAccountIBAN": "None",
+	"bookingType": "ATM"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 74,
+	"amount": -50.0,
+	"bookingDate": "2016-04-09 02:00:00",
+	"partnerAccountIBAN": "None",
+	"bookingType": "ATM"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 75,
+	"amount": -1300.0,
+	"bookingDate": "2016-04-29 02:00:00",
+	"partnerAccountIBAN": "DE511",
+	"bookingType": "Rent"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 76,
+	"amount": 3500.0,
+	"bookingDate": "2016-04-29 02:00:00",
+	"partnerAccountIBAN": "DE512",
+	"bookingType": "Salary"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 77,
+	"amount": -160.0,
+	"bookingDate": "2016-04-29 02:00:00",
+	"partnerAccountIBAN": "DE38900",
+	"bookingType": "Installment"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 78,
+	"amount": 450.0,
+	"bookingDate": "2016-04-29 02:00:00",
+	"partnerAccountIBAN": "DE40042",
+	"bookingType": "Unknown"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 79,
+	"amount": -200.0,
+	"bookingDate": "2016-04-29 02:00:00",
+	"partnerAccountIBAN": "DE50701240538",
+	"bookingType": "GasStation"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 80,
+	"amount": 190.0,
+	"bookingDate": "2016-04-29 02:00:00",
+	"partnerAccountIBAN": "DE400423333",
+	"bookingType": "Childbenefit"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 81,
+	"amount": -50.0,
+	"bookingDate": "2016-04-29 02:00:00",
+	"partnerAccountIBAN": "None",
+	"bookingType": "ATM"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 82,
+	"amount": -50.0,
+	"bookingDate": "2016-05-06 02:00:00",
+	"partnerAccountIBAN": "None",
+	"bookingType": "ATM"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 83,
+	"amount": 4500.0,
+	"bookingDate": "2016-05-26 02:00:00",
+	"partnerAccountIBAN": "DE512",
+	"bookingType": "Salary"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 84,
+	"amount": -160.0,
+	"bookingDate": "2016-05-26 02:00:00",
+	"partnerAccountIBAN": "DE38900",
+	"bookingType": "Installment"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 85,
+	"amount": 450.0,
+	"bookingDate": "2016-05-26 02:00:00",
+	"partnerAccountIBAN": "DE40042",
+	"bookingType": "Unknown"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 86,
+	"amount": -190.0,
+	"bookingDate": "2016-05-26 02:00:00",
+	"partnerAccountIBAN": "DE50701240538",
+	"bookingType": "GasStation"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 87,
+	"amount": 190.0,
+	"bookingDate": "2016-05-26 02:00:00",
+	"partnerAccountIBAN": "DE400423333",
+	"bookingType": "Childbenefit"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 88,
+	"amount": -150.0,
+	"bookingDate": "2016-05-26 02:00:00",
+	"partnerAccountIBAN": "None",
+	"bookingType": "ATM"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 89,
+	"amount": -2600.0,
+	"bookingDate": "2016-06-27 02:00:00",
+	"partnerAccountIBAN": "DE511",
+	"bookingType": "Rent"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 90,
+	"amount": 4511.0,
+	"bookingDate": "2016-06-27 02:00:00",
+	"partnerAccountIBAN": "DE512",
+	"bookingType": "Salary"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 91,
+	"amount": -160.0,
+	"bookingDate": "2016-06-27 02:00:00",
+	"partnerAccountIBAN": "DE38900",
+	"bookingType": "Installment"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 92,
+	"amount": 450.0,
+	"bookingDate": "2016-06-27 02:00:00",
+	"partnerAccountIBAN": "DE40042",
+	"bookingType": "Unknown"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 93,
+	"amount": -160.0,
+	"bookingDate": "2016-06-27 02:00:00",
+	"partnerAccountIBAN": "DE511007",
+	"bookingType": "CarInsurance"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 94,
+	"amount": -100.0,
+	"bookingDate": "2016-06-27 02:00:00",
+	"partnerAccountIBAN": "DE50701240538",
+	"bookingType": "GasStation"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 95,
+	"amount": 190.0,
+	"bookingDate": "2016-06-27 02:00:00",
+	"partnerAccountIBAN": "DE400423333",
+	"bookingType": "Childbenefit"
+}, {
+	"accountNo": 781,
+	"user_id": 106,
+	"booking_id": 96,
+	"amount": -50.0,
+	"bookingDate": "2016-06-27 02:00:00",
+	"partnerAccountIBAN": "None",
+	"bookingType": "ATM"
+}]
